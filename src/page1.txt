@@ -1,5 +1,0 @@
-hi,
-
-this is the first commit that I am creating.
-
-lets see if it works
