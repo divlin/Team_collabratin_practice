@@ -1,4 +1,4 @@
-package src.rado;
+package src;
 
 public class rado {
     public static void main(String[] args) {
